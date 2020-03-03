@@ -1,3 +1,4 @@
-<target name="run">
-  <java jar="Cryptor.jar" fork="true"/>
-</target>
+<project name = "Cryptor" default = "info">
+   <target name = "info">
+   </target>
+</project>
