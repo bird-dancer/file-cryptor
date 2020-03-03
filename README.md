@@ -1,2 +1,2 @@
-# file-cryptor
-A File en- and decryptor in Java
+# File-cryptor
+A File 100% written in Java File cryptor using AES
