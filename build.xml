@@ -1,0 +1,3 @@
+<target name="run">
+  <java jar="Cryptor.jar" fork="true"/>
+</target>
