@@ -68,7 +68,7 @@ public class Crypto {
         Crypto crypto = new Crypto();
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.println("Would you to encrypt (e) or decrypt (d) a file?");
+            System.out.println("Would you like to encrypt (e) or decrypt (d) a file?");
             String order = scanner.nextLine();
             if (order.equals("e")) {
                 System.out.println("filename: ");
