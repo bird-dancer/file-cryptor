@@ -69,13 +69,13 @@ public class Crypto {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.println("Would you like to encrypt (e) or decrypt (d) a file?");
-            String order = scanner.nextLine();
-            if (order.equals("e")) {
+            String input = scanner.nextLine();
+            if (input.equals("e")) {
                 System.out.println("filename: ");
                 String fileName = scanner.nextLine();
                 System.out.println("password");
                 crypto.encryptFile(fileName, scanner.nextLine());
-            } else if (order.equals("d")) {
+            } else if (input.equals("d")) {
                 System.out.println("filename: ");
                 String fileName = scanner.nextLine();
                 System.out.println("password");
