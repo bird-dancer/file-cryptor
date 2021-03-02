@@ -1,0 +1,4 @@
+<project name = "Cryptor" default = "info">
+	<target name = "info">
+	</target>
+</project>
