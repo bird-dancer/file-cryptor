@@ -8,3 +8,4 @@ A File cryptor 100% written in Java using AES
 ```javac Crypto.java```
 ### run
 ```java Crypto```
+answer to de- or encrypt the file, give the file name and password
