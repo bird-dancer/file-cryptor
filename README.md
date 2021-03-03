@@ -7,5 +7,5 @@ A File cryptor 100% written in Java using AES
 ### compile
 ```javac Crypto.java```
 ### run
-```java Crypto```
+```java Crypto```<br/>
 answer to de- or encrypt the file, give the file name and password
